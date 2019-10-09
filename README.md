@@ -2,7 +2,7 @@
 
 <div align="center">
 
-![JuniperBot](https://juniper.bot/static/img/icon_512.png)
+![JuniperBot](https://www.google.com/url?sa=i&source=images&cd=&ved=2ahUKEwjm3-ibwI_lAhU-AGMBHSjbDvEQjRx6BAgBEAQ&url=https%3A%2F%2Fminecraft-fr.gamepedia.com%2FGolem_de_fer&psig=AOvVaw1YP8sVpHVbwQLc2HXmBJ6A&ust=1570721629825526)
 
 [![Discord Bots](https://discordbots.org/api/widget/310848622642069504.png)](https://discordbots.org/bot/310848622642069504?utm_source=widget)
 
