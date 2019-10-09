@@ -1,7 +1,6 @@
 # Golem
 *Simple bot discord using JDA*
-
-#### *
+#### 
 **Golem** it's a simple bot discord fork if you want!
 
 <div align="center">
