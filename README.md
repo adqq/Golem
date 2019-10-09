@@ -5,6 +5,7 @@
 
 * **Welcome messages:** Welcome messages (*join* and *quit*).
 * **Commands:** You can use **!user**, **!serverinfo**, **!help**.
+* **Ticket system:** You can create a **ticket** for support.
 
 <div align="center">
 
