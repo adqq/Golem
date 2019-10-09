@@ -1,8 +1,4 @@
 # Golem
-[![Uptime Robot status](https://img.shields.io/uptimerobot/status/m780010966-3242e97a2ffbe3e33ef10eb4.svg)](https://stats.uptimerobot.com/00yWZcKjN)
-[![Uptime Robot ratio](https://img.shields.io/uptimerobot/ratio/m780010966-3242e97a2ffbe3e33ef10eb4.svg)](https://stats.uptimerobot.com/00yWZcKjN)
-[![GPL Licence](https://badges.frapsoft.com/os/gpl/gpl.svg?v=103)](LICENSE)
-[![Official Discord Server](https://discordapp.com/api/guilds/350338493588963328/embed.png)](https://discord.gg/EdWspu3)
 
 <div align="center">
 
