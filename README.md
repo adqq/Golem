@@ -1,4 +1,5 @@
 # Golem
+*Simple bot discord using JDA*
 
 <div align="center">
 
