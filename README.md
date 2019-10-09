@@ -1,10 +1,10 @@
 # Golem
-*Simple bot discord using JDA*
+*Simple bot discord using JDA and maven (Java)*
 #### 
-**Golem** It's a simple bot discord
+**Golem** It's a simple bot discord with **commands**, **embeds**.
 
 * **Welcome messages:** Welcome messages (*join* and *quit*).
-* **Commands:** You can use **! user**, **! serverinfo**, **! help**.
+* **Commands:** You can use **!user**, **!serverinfo**, **!help**.
 
 <div align="center">
 
